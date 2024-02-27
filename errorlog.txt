@@ -1,0 +1,4 @@
+
+0(23) : error C1503: undefined variable "LightPosition"
+0(26) : error C0000: syntax error, unexpected '}' at token "}"
+

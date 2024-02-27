@@ -1,0 +1,15 @@
+##OpenGL GLIB
+
+Ortho -1. 1.  -1. 1.
+
+LookAt  0. 0. 2.  0. 0. 0.  0. 1. 0.
+
+Vertex	dragon.vert
+Fragment	dragon.frag
+Program 	Dragon				\
+	X_Amp	<0., 1., 5.>		\
+	Y_Amp	<0., 1., 5.>		\
+	Z_Amp	<0., 1., 5.>		\
+	Period	<0., 1., 5.>		\
+
+Obj dragon138.obj
